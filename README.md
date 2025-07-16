@@ -24,6 +24,7 @@
 
 ## 📣 News
 
+- **[2025/07/01]** LLaVA-CoT has been accepted by ICCV 2025!
 - **[2025/04/13]** We have updated the inference script that does not rely on VLMEvalKit, based on the suggestion in [this issue](https://github.com/PKU-YuanGroup/LLaVA-CoT/issues/34).
 - **[2025/01/08]** We released the full training code.
 - **[2025/01/02]** We discovered that when testing with the AI2D benchmark, we were using AI2D_TEST_NO_MASK, while the VLMEvalKit utilizes AI2D_TEST. We previously overlooked the distinction between the two, and we sincerely apologize for this oversight. We will make the necessary corrections.
