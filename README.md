@@ -14,7 +14,6 @@
 [![arXiv](https://img.shields.io/badge/Arxiv-2411.10440-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2411.10440)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKevin_GuoweiXu%2Fstatus%2F1858338565463421244)](https://x.com/Kevin_GuoweiXu/status/1858338565463421244)
 [![License](https://img.shields.io/badge/Code%20License-Apache2.0-yellow)](https://github.com/PKU-YuanGroup/LLaVA-CoT/blob/main/LICENSE)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FLLaVA-CoT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPKU-YuanGroup%2FLLaVA-CoT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 [![Replicate](https://replicate.com/chenxwh/llava-cot/badge)](https://replicate.com/chenxwh/llava-cot)
 [![Wisemodel](https://img.shields.io/badge/wisemodel-code-blue)](https://wisemodel.cn/codes/KevinTHU/LLaVA-CoT)
 
